@@ -97,11 +97,12 @@ header a:hover {
 }
 
 
-.thesis th{width:200px;}
+.thesis th{width:200px;
+text-align: left;}
 
 
 
-.others th{width:225px;}
+.others th{width:50px;}
 
 
 footer p {
